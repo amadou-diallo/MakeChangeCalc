@@ -13,7 +13,7 @@ public class Makechange {
     
     public static void main(String[] args) {
         
-        int cents;
+         int cents;
         
          System.out.println("Welcome to the Make Change calculator");
         
