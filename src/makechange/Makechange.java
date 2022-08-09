@@ -21,9 +21,7 @@ public class Makechange {
          
          while(cents != 0) { 
               makeChange(cents);
-              
-           
-             cents = getCents();
+              cents = getCents();
               }// end of while
          System.out.println("Thanks for using the change calculator");
        }// end of main       
